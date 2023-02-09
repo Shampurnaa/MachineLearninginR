@@ -1,2 +1,2 @@
 # MachineLearninginR
-# MNIST: Image processing hand-written digits
+#MNIST: Image processing hand-written digits
