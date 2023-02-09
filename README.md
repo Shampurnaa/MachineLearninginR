@@ -1,2 +1,2 @@
 # MachineLearninginR
-#Important Concepts of ML
+# MNIST: Image processing hand-written digits
